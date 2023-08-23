@@ -1,4 +1,5 @@
 # World Cup 2022 Forum Simulation - Roee Ziv
+![alt](https://forums.macrumors.com/attachments/1bc8ec06-3efe-421d-bdc4-ab173d6766bb-jpeg.2112597)
 ## About Me
 - As for the time this project was created, I am a 2nd year student at Ben Gurion University for Computer Science Degree.
 - This project was created by me as a fun way to incorporate my hobbies into demonstrating my knowledge in network layers, mainly focusing on:
